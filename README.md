@@ -29,9 +29,9 @@ Este projeto é uma aplicação simples de uma lanchonete desenvolvida em C# que
 # Estrutura do código ⚙️
 O código é dividido em dois arquivos:
 
-Form.cs && telasplash.cs: este arquivo contém a lógica da interface gráfica da aplicação.
+•	Form.cs && telasplash.cs: este arquivo contém a lógica da interface gráfica da aplicação.
 
-Venda.cs: este arquivo contém a classe Venda, que contém as propriedades e métodos necessários para calcular o valor total da compra e o troco do cliente.
+•	Venda.cs: este arquivo contém a classe Venda, que contém as propriedades e métodos necessários para calcular o valor total da compra e o troco do cliente.
 
 <hr>
 
