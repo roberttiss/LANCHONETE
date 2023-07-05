@@ -27,7 +27,7 @@ Este projeto é uma aplicação simples de uma lanchonete desenvolvida em C# que
 <hr>
 
 # Estrutura do código ⚙️
-O código é dividido em dois arquivos:
+O código é dividido em três arquivos:
 
 •	Form.cs && telasplash.cs: este arquivo contém a lógica da interface gráfica da aplicação.
 
