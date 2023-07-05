@@ -5,23 +5,24 @@ Este projeto é uma aplicação simples de uma lanchonete desenvolvida em C# que
 <hr>
 
 # Como utilizar 🚀
-Para utilizar a aplicação, basta seguir os seguintes passos:
+•	Para utilizar a aplicação, basta seguir os seguintes passos:
 
-Clone ou baixe o projeto para sua máquina.
+•	Clone ou baixe o projeto para sua máquina.
 
-Abra o projeto em um ambiente de desenvolvimento integrado, como o Visual Studio.
+•	Abra o projeto em um ambiente de desenvolvimento integrado, como o Visual Studio.
 
-Execute a aplicação e a janela da lanchonete será aberta.
+•	Execute a aplicação e a janela da lanchonete será aberta.
 
-Insira a quantidade de lanches e refrigerantes desejados.
+•	Insira a quantidade de lanches e refrigerantes desejados.
 
-Clique no botão "Calcular Total da Conta" para calcular o valor total da compra.
+•	Clique no botão "Calcular Total da Conta" para calcular o valor total da compra.
 
-Insira o valor pago pelo cliente no campo "Dinheiro".
+•	Insira o valor pago pelo cliente no campo "Dinheiro".
 
-Clique no botão "Calcular Troco" para calcular o troco do cliente.
+•	Clique no botão "Calcular Troco" para calcular o troco do cliente.
 
-Pronto! O valor total da compra e o troco do cliente serão exibidos na tela.
+•	Pronto! O valor total da compra e o troco do cliente serão exibidos na tela.
+
 
 <hr>
 
